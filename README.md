@@ -6,7 +6,8 @@ In a modern business environment, decentralized systems pose significant risks. 
 
 This project simulates the implementation of a Centralized Identity Management System using Microsoft Active Directory. By architecting a Primary Domain Controller, I established a "Single Source of Truth" for the network. This infrastructure enables a single administrator to manage thousands of identities and assets from a unified interface, enforcing rigorous security policies and granular data access across the entire organization.
 
-🏗️ Key Technical Pillars
+🏗️ Key Technical Pillars:
+
 🔐 Centralized Authentication
 * Domain Integration: Transitioned from insecure local accounts to a unified Machine.org domain.
 * Scalability: Enabled seamless "roaming" profiles and centralized security auditing for all network logins.
