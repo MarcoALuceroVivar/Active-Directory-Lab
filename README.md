@@ -43,9 +43,9 @@
 * **Evidence:**
     <img width="1191" height="843" alt="PartialOwnership" src="https://github.com/user-attachments/assets/82b14b4c-adcc-49b3-b683-4050b0863ce8" />
 * Context: Proves the application of Least Privilege by giving Jordy Modify access instead of Full Control.
-* 
+   
     <img width="1023" height="847" alt="SharedDrive" src="https://github.com/user-attachments/assets/b07fecea-a91a-4e61-803a-cf2815c6de31" />
 * Context: Shows the shared folder successfully mapped as the Z: drive on the client desktop.
-* 
+
     <img width="1191" height="840" alt="USersinSErber" src="https://github.com/user-attachments/assets/e99b4639-a446-4ad3-94de-487457b55b90" />
 * Context: A final PowerShell audit table listing the status of all domain accounts.
