@@ -25,8 +25,7 @@
 * **Client Networking:** Configured Windows 11 client DNS to point to the Domain Controller for service location.
 * **Domain Integration:** Successfully joined the workstation to the domain and verified the secure channel status via PowerShell.
 * **Evidence:**
-![IPV4ConnectionofJOrdy](https://github.com/user-attachments/assets/72e60907-5a58-4c87-a5d8-67fb597c54ed)
-
+<img width="953" height="799" alt="bruh" src="https://github.com/user-attachments/assets/9ca56261-4624-4ff8-9623-950f86f81129" />
 
 <img width="1015" height="850" alt="ProofofJOrdy" src="https://github.com/user-attachments/assets/f3270c3e-71f6-41e0-b551-20a556539ca3" />
 
