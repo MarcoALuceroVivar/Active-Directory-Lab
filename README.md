@@ -4,8 +4,9 @@
 * **Network Configuration:** Implemented a static IPv4 address (`10.1.10.2`) to ensure consistent DNS resolution for all domain-joined assets.
 * **Evidence:**
 <img width="1183" height="845" alt="ServerImage" src="https://github.com/user-attachments/assets/80b0ee28-63d6-44bd-9512-b0225a7071a2" />
+* Context: Showcases the healthy status of the NY-DC-01 Domain Controller.
 <img width="1180" height="838" alt="AdminIPV4" src="https://github.com/user-attachments/assets/b5dd3076-23d9-49bc-9d1b-80a09ddf717c" />
-
+* Context: Proves the server is using a static IP (10.1.10.2) to ensure DNS reliability.
 ---
 
 ### **Phase 2: Identity Management**
@@ -14,10 +15,11 @@
 * **Security Groups:** Assigned users to specific security groups to establish baseline access controls.
 * **Evidence:**
 <img width="1188" height="842" alt="ServerUsers" src="https://github.com/user-attachments/assets/20c2731d-b1cb-4d1b-b2f5-6cdaa192077a" />
-
+* Context: Displays the full list of domain users, including the newly created Jordy and Marco L accounts.
 <img width="1179" height="841" alt="JORDYUSER" src="https://github.com/user-attachments/assets/05c9b26f-b618-4efa-a900-4fbe54deaa19" />
-
-    ![Security Group Membership](images/{2C55D2CD-AB76-4876-8066-D1D361D7C62C}.png)
+* Context: Shows the advanced account settings and the specific Jordy@Machine.org UPN.
+  ![Security Group Membership](images/{2C55D2CD-AB76-4876-8066-D1D361D7C62C}.png)
+* Context: Confirms the user is part of the "Domain Users" security group.
 
 ---
 
@@ -26,9 +28,9 @@
 * **Domain Integration:** Successfully joined the workstation to the domain and verified the secure channel status via PowerShell.
 * **Evidence:**
 <img width="953" height="799" alt="bruh" src="https://github.com/user-attachments/assets/9ca56261-4624-4ff8-9623-950f86f81129" />
-
+* Context: Shows the Windows 11 client configured to talk to the Server's DNS
 <img width="1015" height="850" alt="ProofofJOrdy" src="https://github.com/user-attachments/assets/f3270c3e-71f6-41e0-b551-20a556539ca3" />
-
+* Context: The PowerShell confirmation that the domain connection is "True" and healthy.
 
 ---
 
@@ -38,8 +40,8 @@
 * **Resource Access:** Verified successful end-to-end connectivity by mapping the share as a persistent Z: drive.
 * **Evidence:**
     <img width="1191" height="843" alt="PartialOwnership" src="https://github.com/user-attachments/assets/82b14b4c-adcc-49b3-b683-4050b0863ce8" />
-
+* Context: Proves the application of Least Privilege by giving Jordy Modify access instead of Full Control.
     <img width="1023" height="847" alt="SharedDrive" src="https://github.com/user-attachments/assets/b07fecea-a91a-4e61-803a-cf2815c6de31" />
-
+* Context: Shows the shared folder successfully mapped as the Z: drive on the client desktop.
     <img width="1191" height="840" alt="USersinSErber" src="https://github.com/user-attachments/assets/e99b4639-a446-4ad3-94de-487457b55b90" />
-
+* Context: A final PowerShell audit table listing the status of all domain accounts.
