@@ -8,6 +8,7 @@
   
 <img width="1180" height="838" alt="AdminIPV4" src="https://github.com/user-attachments/assets/b5dd3076-23d9-49bc-9d1b-80a09ddf717c" />
 * Context: Proves the server is using a static IP (10.1.10.2) to ensure DNS reliability.
+
 ---
 
 ### **Phase 2: Identity Management**
@@ -20,9 +21,6 @@
 * 
 <img width="1179" height="841" alt="JORDYUSER" src="https://github.com/user-attachments/assets/05c9b26f-b618-4efa-a900-4fbe54deaa19" />
 * Context: Shows the advanced account settings and the specific Jordy@Machine.org UPN.
-* 
-  ![Security Group Membership](images/{2C55D2CD-AB76-4876-8066-D1D361D7C62C}.png)
-* Context: Confirms the user is part of the "Domain Users" security group.
 
 ---
 
