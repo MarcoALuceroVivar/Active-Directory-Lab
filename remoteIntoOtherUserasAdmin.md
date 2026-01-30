@@ -40,4 +40,6 @@ Accept the certificate
 The users machine will ask you to allow the connection
 <img width="1024" height="846" alt="image" src="https://github.com/user-attachments/assets/959821a3-32c8-4ad5-98e3-b881d7367b47" />
 
+The Administrators computer will see this, the top of the screen will show the ip of the machine they have remoted into.
+<img width="1024" height="722" alt="image" src="https://github.com/user-attachments/assets/eca2ef50-ffa8-4bc0-b1b2-3a64afbddc0d" />
 
