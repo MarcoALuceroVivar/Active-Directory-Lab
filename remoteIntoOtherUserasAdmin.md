@@ -37,7 +37,7 @@ Should say "Initiating connection":
 Accept the certificate
 <img width="1189" height="840" alt="image" src="https://github.com/user-attachments/assets/837cd854-0700-4fee-992e-070c6242032f" />
 
-THe users machine will ask you to allow the connection
+The users machine will ask you to allow the connection
 <img width="1024" height="846" alt="image" src="https://github.com/user-attachments/assets/959821a3-32c8-4ad5-98e3-b881d7367b47" />
 
 
