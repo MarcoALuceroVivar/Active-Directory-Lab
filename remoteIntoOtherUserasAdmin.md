@@ -1,3 +1,4 @@
+#Remote into the users computer as an administrator
 Step 1: Enable Remote Desktop on the Client VM
 Action: Log into the Windows 11 client machine (JORDYM) and enable remote access.
 
