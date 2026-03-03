@@ -1,12 +1,4 @@
 # Active Directory Password Reset Guide
-
-This guide walks through the process of resetting a user password within a Windows Server 2022 environment using **Active Directory Users and Computers (ADUC)**.
-
-## Prerequisites
-* Access to a Domain Controller (e.g., **NY-DC-01**).
-* Administrative privileges within the **Machine.org** domain.
-
-
 ## Step-by-Step Instructions
 
 ### 1. Open Administrative Tools
