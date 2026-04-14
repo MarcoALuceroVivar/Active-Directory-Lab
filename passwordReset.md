@@ -29,5 +29,6 @@ In the **Reset Password** dialog box:
 
 ### 5. Confirm Completion
 Click **OK**. A confirmation message will appear stating, "The password for Jordy has been changed". Click **OK** to close the wizard.
+
 <img width="512" height="225" alt="image" src="https://github.com/user-attachments/assets/a57f4b9e-4362-4097-8cbd-faca071c2a27" />
 
