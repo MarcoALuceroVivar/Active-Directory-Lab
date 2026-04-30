@@ -38,6 +38,7 @@ Key Technical Pillars:
 
 ---
 
+
 ### **Phase 2: Identity Management**
 * **User Provisioning:** Created and managed centralized user accounts within Active Directory.
 * **Standardization:** Configured User Principal Names (UPN) to maintain organizational naming conventions.
@@ -45,7 +46,7 @@ Key Technical Pillars:
 * **Evidence:**
 <img width="1188" height="842" alt="ServerUsers" src="https://github.com/user-attachments/assets/20c2731d-b1cb-4d1b-b2f5-6cdaa192077a" />
 
-* 
+ 
 <img width="1179" height="841" alt="JORDYUSER" src="https://github.com/user-attachments/assets/05c9b26f-b618-4efa-a900-4fbe54deaa19" />
 
 
