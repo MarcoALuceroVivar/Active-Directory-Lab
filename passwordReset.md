@@ -40,6 +40,7 @@ Unlock-ADAccount -Identity Jordy
 
 <img width="979" height="582" alt="image" src="https://github.com/user-attachments/assets/8e73bac5-783a-42ff-a3e4-26626690c092" />
 
+--- 
 
 It User then responds to the user stating that theyve changed the password and must contact them for the passowrd
 <img width="1060" height="520" alt="image" src="https://github.com/user-attachments/assets/a8a9d5fc-9c5a-476e-95b9-aee5a41eb200" />
