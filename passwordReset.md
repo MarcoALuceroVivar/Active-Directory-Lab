@@ -39,6 +39,7 @@ Unlock-ADAccount -Identity Jordy
 
 <img width="979" height="582" alt="image" src="https://github.com/user-attachments/assets/8e73bac5-783a-42ff-a3e4-26626690c092" />
 ---
+
 ## Step 5-User Log-in & Password Change
 the user logs in successfully, changes their password and is able to keep on with their day.
 
