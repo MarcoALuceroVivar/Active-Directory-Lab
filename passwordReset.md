@@ -25,7 +25,8 @@ The administrator checks for locked accounts using PowerShell:
 Search-ADAccount -LockedOut | Select Name, SamAccountName
 ```
 <img width="978" height="264" alt="image" src="https://github.com/user-attachments/assets/4a4bf7b1-dfd7-4012-b5da-035e87bc8e10" />
-
+## Step 4- Reset USer Password and Unlock Account
+user logs in with the password provided
 ```powershell
 Set-ADAccountPassword -Identity Jordy -Reset `
 -NewPassword (ConvertTo-SecureString "NewPass123!" -AsPlainText -Force)
