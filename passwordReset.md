@@ -27,7 +27,7 @@ Search-ADAccount -LockedOut | Select Name, SamAccountName
 <img width="978" height="264" alt="image" src="https://github.com/user-attachments/assets/4a4bf7b1-dfd7-4012-b5da-035e87bc8e10" />
 
 ## Step 4- Reset User Password and Unlock Account
-user logs in with the password provided
+User logs in with the password provided
 
 ```powershell
 Set-ADAccountPassword -Identity Jordy -Reset `
@@ -42,7 +42,7 @@ Unlock-ADAccount -Identity Jordy
 
 --- 
 
-It User then responds to the user stating that theyve changed the password and must contact them for the passowrd
+IT User then responds to the user stating that theyve changed the password and must contact them for the passowrd
 <img width="1060" height="520" alt="image" src="https://github.com/user-attachments/assets/a8a9d5fc-9c5a-476e-95b9-aee5a41eb200" />
 
 
@@ -50,14 +50,14 @@ It User then responds to the user stating that theyve changed the password and m
 
 ## Step 6-User Log-in & Password Change
 
-the user logs in with the password supplied by IT 
+The user logs in with the password supplied by IT 
 
 <img width="1021" height="848" alt="image" src="https://github.com/user-attachments/assets/227cdcc0-c476-48d2-93d3-bcfa7e7f860e" />
 
-the Password must be changed before they are able to get access to the computer once again
+The Password must be changed before they are able to get access to the computer once again
 <img width="1024" height="854" alt="image" src="https://github.com/user-attachments/assets/8f8d3fc5-f385-4bdb-809a-5fc729a590a1" />
 
-the user makes a change to the password supplied by IT
+The user makes a change to the password supplied by IT
 <img width="1027" height="849" alt="image" src="https://github.com/user-attachments/assets/097160c3-f953-4bae-bc95-9156120e8fd7" />
 
 Then the user gets confirmation that their password has indeed been changed
