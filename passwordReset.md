@@ -35,15 +35,19 @@ Set-ADUser -Identity Jordy -ChangePasswordAtLogon $true
 
 Unlock-ADAccount -Identity Jordy
 ```
+
 <img width="979" height="582" alt="image" src="https://github.com/user-attachments/assets/8e73bac5-783a-42ff-a3e4-26626690c092" />
 
 ## Step 4- Reset USer Password and Unlock Account
 user logs in with the password provided
 <img width="1021" height="848" alt="image" src="https://github.com/user-attachments/assets/227cdcc0-c476-48d2-93d3-bcfa7e7f860e" />
+
 the Password must be changed before they are able to get access to the computer once again
 <img width="1024" height="854" alt="image" src="https://github.com/user-attachments/assets/8f8d3fc5-f385-4bdb-809a-5fc729a590a1" />
+
 the user makes a change to the password supplied by IT
 <img width="1027" height="849" alt="image" src="https://github.com/user-attachments/assets/097160c3-f953-4bae-bc95-9156120e8fd7" />
+
 Then the user gets confirmation that their password has indeed been changed
 <img width="1023" height="853" alt="image" src="https://github.com/user-attachments/assets/bacbdef3-1396-4f59-b235-2d51ef53ce0f" />
 
