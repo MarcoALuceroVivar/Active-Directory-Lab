@@ -11,7 +11,7 @@ The user submits a support ticket through the osTicket portal indicating they ar
 ---
 
 ## Step 2 – Ticket Review
-The administrator reviews the ticket in the osTicket staff control panel to confirm the issue.
+The IT user reviews the ticket in the osTicket staff control panel to confirm the issue.
 <img width="1054" height="516" alt="image" src="https://github.com/user-attachments/assets/9cf4e2c7-ee88-4e1c-aaa2-5a26d762f84d" />
 
 
@@ -19,7 +19,7 @@ The administrator reviews the ticket in the osTicket staff control panel to conf
 ---
 
 ## Step 3 – Verify Locked Account
-The administrator checks for locked accounts using PowerShell:
+The IT user checks for locked accounts using PowerShell:
 
 ```powershell
 Search-ADAccount -LockedOut | Select Name, SamAccountName
@@ -40,7 +40,7 @@ Unlock-ADAccount -Identity Jordy
 ## Step 4- Reset USer Password and Unlock Account
 user logs in with the password provided
 <img width="1021" height="848" alt="image" src="https://github.com/user-attachments/assets/227cdcc0-c476-48d2-93d3-bcfa7e7f860e" />
-the Password must be chaned before they are able to get access to the computer once again
+the Password must be changed before they are able to get access to the computer once again
 <img width="1024" height="854" alt="image" src="https://github.com/user-attachments/assets/8f8d3fc5-f385-4bdb-809a-5fc729a590a1" />
 the user makes a change to the password supplied by IT
 <img width="1027" height="849" alt="image" src="https://github.com/user-attachments/assets/097160c3-f953-4bae-bc95-9156120e8fd7" />
@@ -56,7 +56,7 @@ the user logs in successfully, changes their password and is able to keep on wit
 
 ---
 ## Step 6- Close Ticket
-We Close the ticket and document how to resolve the issue. 
+The IT user closes the ticket and document how to resolve the issue. 
 
 <img width="1060" height="520" alt="image" src="https://github.com/user-attachments/assets/a8a9d5fc-9c5a-476e-95b9-aee5a41eb200" />
 
