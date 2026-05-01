@@ -68,6 +68,7 @@ Then the user gets confirmation that their password has indeed been changed
 ## Step 6- Close Ticket
 The IT user closes the ticket and document how to resolve the issue. 
 
+<img width="890" height="69" alt="{B9A3748E-D5FA-4473-89AF-BB5082E4F090}" src="https://github.com/user-attachments/assets/b719309f-1a6a-4cda-8dcb-b17e617c6e1e" />
 
 
 
